@@ -24,9 +24,9 @@ This is main repository to group the my course work as part of Deeplearning.ai -
 * Despite the hype of AI and deep learning (DL), traditionl ML methods (e.g, decision trees, random forest) still very effective in real world scenarios.
 
 ### Course work
-* [deeplearning.ai-course1](https://github.com/nalbarr/coursera-ai4med-course1)
-* [deeplearning.ai-course2](https://github.com/nalbarr/coursera-ai4med-course2)
-* [deeplearning.ai-course3](https://github.com/nalbarr/coursera-ai4med-course3)
+* [coursera-ai4med-course1](https://github.com/nalbarr/coursera-ai4med-course1)
+* [coursera-ai4med-course2](https://github.com/nalbarr/coursera-ai4med-course2)
+* [coursera-ai4med-course3](https://github.com/nalbarr/coursera-ai4med-course3)
 
 ### Related
 * Coursera, Deeplearning.ai: Deep Learning Specialization(https://www.deeplearning.ai/deep-learning-specialization/)
