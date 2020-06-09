@@ -12,7 +12,7 @@ This is main repository to group the my course work as part of Deeplearning.ai -
 ### Specialization
 - Course 1:  [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis)
 - Course 2:  [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis)
-- Course 3:  [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-treatment)
+- Course 3:  [AI for Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment)
 
 ### Eureka! moment
 #### If you plan to only audit class, one thing to focus on
