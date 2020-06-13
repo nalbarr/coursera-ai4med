@@ -17,6 +17,7 @@ This is main repository to group the my course work as part of Deeplearning.ai -
 ### Eureka! moment
 #### If you plan to only audit class, one thing to focus on
 * Although radiology image classification and segmentation using a CNN in TensorFlow is interesting, survival analysis using different traditional ML methods are a nice comparison and contrast between modern and classical AI, ML and DL approaches.
+* GradCAM is a novel approach to overlay heatmaps on radiology images.
 
 ### Key Takeaways
 * In Healthcare, there are common data challenges of: data access, data size, and data quality.
