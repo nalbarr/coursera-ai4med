@@ -1,5 +1,4 @@
 # coursera-ai4med
-coursera-ai4med
 
 This is main repository to group the my course work as part of Deeplearning.ai - AI for Medicine Specialization by [deeplearning.ai](https://www.coursera.org/specializations/ai-for-medicine).
 
@@ -30,8 +29,5 @@ This is main repository to group the my course work as part of Deeplearning.ai -
 * [coursera-ai4med-course3](https://github.com/nalbarr/coursera-ai4med-course3)
 
 ### Related
-* Coursera, Deeplearning.ai: Deep Learning Specialization(https://www.deeplearning.ai/deep-learning-specialization/)
-* Coursera, Machine Learning (Ng, Stanford) (https://www.coursera.org/learn/machine-learning), (https://github.com/nalbarr/coursera-stanford-machine-learning)
-
-### Future Work
-* Review (legacy) TensorFlow 1.x implementations and re-assess with TensorFlow 2.x, Pytorch and Fastai
+* [Coursera, Deeplearning.ai: Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/)
+* [Coursera, Machine Learning (Ng, Stanford)](https://www.coursera.org/learn/machine-learning)
